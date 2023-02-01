@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ayush Thakur</title>
-    <link>https://ayushthakur.github.io/ayushthakur.dev/</link>
+    <link>https://ayushthakur.github.io/</link>
     <description>Recent content on Ayush Thakur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Jan 2023 18:19:19 +0530</lastBuildDate><atom:link href="https://ayushthakur.github.io/ayushthakur.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Jan 2023 18:19:19 +0530</lastBuildDate><atom:link href="https://ayushthakur.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://ayushthakur.github.io/ayushthakur.dev/about/</link>
+      <link>https://ayushthakur.github.io/about/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ayushthakur.github.io/ayushthakur.dev/about/</guid>
+      <guid>https://ayushthakur.github.io/about/</guid>
       <description>Hi, I am Ayush. I am a data scientist by profession.
 I love basketball, diaries &amp;amp; handmade papers.
 I love reading. I have been collating articles for close to 4 years:
@@ -21,28 +21,28 @@ readingdiet blog (solo) 25 ftw newsletter (collab) - 74 issues - a weekly newsle
     
     <item>
       <title>Projects</title>
-      <link>https://ayushthakur.github.io/ayushthakur.dev/projects/</link>
+      <link>https://ayushthakur.github.io/projects/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ayushthakur.github.io/ayushthakur.dev/projects/</guid>
+      <guid>https://ayushthakur.github.io/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A New Platform for the Blog</title>
-      <link>https://ayushthakur.github.io/ayushthakur.dev/post/a-new-platform-for-the-blog/</link>
+      <link>https://ayushthakur.github.io/post/a-new-platform-for-the-blog/</link>
       <pubDate>Tue, 31 Jan 2023 18:19:19 +0530</pubDate>
       
-      <guid>https://ayushthakur.github.io/ayushthakur.dev/post/a-new-platform-for-the-blog/</guid>
+      <guid>https://ayushthakur.github.io/post/a-new-platform-for-the-blog/</guid>
       <description>Test</description>
     </item>
     
     <item>
       <title>YouTube Channel Recommendations</title>
-      <link>https://ayushthakur.github.io/ayushthakur.dev/post/2022-08-03-youtube-channel-recommendations/</link>
+      <link>https://ayushthakur.github.io/post/2022-08-03-youtube-channel-recommendations/</link>
       <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ayushthakur.github.io/ayushthakur.dev/post/2022-08-03-youtube-channel-recommendations/</guid>
+      <guid>https://ayushthakur.github.io/post/2022-08-03-youtube-channel-recommendations/</guid>
       <description>I have recently been binging on YouTube videos. Here are some channel recommendations with an example video.
 General Science (Math, Physics and much more) Link to heading Veritasium Example Video: The man who killed millions and saved billions
 3Blue1Brown Example Video: The essence of Calculus
@@ -52,58 +52,58 @@ Philosophy and Psychology Link to heading Academy Of Ideas Example Video: Nietzs
     
     <item>
       <title>Need for imaginary numbers and the role of outsiders</title>
-      <link>https://ayushthakur.github.io/ayushthakur.dev/post/2022-07-25-need-for-imaginary-numbers-and-the-role-of-outsiders/</link>
+      <link>https://ayushthakur.github.io/post/2022-07-25-need-for-imaginary-numbers-and-the-role-of-outsiders/</link>
       <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ayushthakur.github.io/ayushthakur.dev/post/2022-07-25-need-for-imaginary-numbers-and-the-role-of-outsiders/</guid>
+      <guid>https://ayushthakur.github.io/post/2022-07-25-need-for-imaginary-numbers-and-the-role-of-outsiders/</guid>
       <description>After watching this video by Veritasium. I realized that geometry was the origin of all of algebra, at least a lot of advancements to it. For eg: Let&amp;rsquo;s take a simple Quadratic Equation x^2 + x = 20, anyone can apply the quadratic formula to solve it but before that, it was Geometry that solved such problems ( I highly recommend you to watch the video to understand how it was done, my notes below might not help you imagine it as clearly as was done in the video)</description>
     </item>
     
     <item>
       <title>How do you send a message to someone 10,000 years in future</title>
-      <link>https://ayushthakur.github.io/ayushthakur.dev/post/2022-02-19-how-do-you-send-a-message-to-someone-10000-years-in-future/</link>
+      <link>https://ayushthakur.github.io/post/2022-02-19-how-do-you-send-a-message-to-someone-10000-years-in-future/</link>
       <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ayushthakur.github.io/ayushthakur.dev/post/2022-02-19-how-do-you-send-a-message-to-someone-10000-years-in-future/</guid>
+      <guid>https://ayushthakur.github.io/post/2022-02-19-how-do-you-send-a-message-to-someone-10000-years-in-future/</guid>
       <description>I was listening to this great episode on 99% invisible (one of the best podcasts I listen to). The idea was - How do you communicate with someone 10k years in future to convey them the message that a certain box contains radioactive material and shouldn&amp;rsquo;t be touched (as it is an existential risk)
 This was an actual project in the US and they hired a bunch fo artists, communicators etc.</description>
     </item>
     
     <item>
       <title>Your career is gonna be long</title>
-      <link>https://ayushthakur.github.io/ayushthakur.dev/post/2022-01-07-your-career-is-gonna-be-long/</link>
+      <link>https://ayushthakur.github.io/post/2022-01-07-your-career-is-gonna-be-long/</link>
       <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ayushthakur.github.io/ayushthakur.dev/post/2022-01-07-your-career-is-gonna-be-long/</guid>
+      <guid>https://ayushthakur.github.io/post/2022-01-07-your-career-is-gonna-be-long/</guid>
       <description>I was reading this brillant piece on career by Nikhyl Singhal. Apart from the main argument of &amp;lsquo;stage of the company&amp;rsquo; that Nykhil makes. I want to expand on the thought of &amp;rsquo;longetivity of tech career&amp;rsquo; more.
 As the article mentoins, with the improvement in health, most of us would work way past our 60 and may be till our 90s, taking a safer side, let&amp;rsquo;s reduce it by 20% and keep it at 72.</description>
     </item>
     
     <item>
       <title>Review 2021</title>
-      <link>https://ayushthakur.github.io/ayushthakur.dev/post/2022-01-02-review-2021/</link>
+      <link>https://ayushthakur.github.io/post/2022-01-02-review-2021/</link>
       <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ayushthakur.github.io/ayushthakur.dev/post/2022-01-02-review-2021/</guid>
+      <guid>https://ayushthakur.github.io/post/2022-01-02-review-2021/</guid>
       <description>Bullets in no particular order
 Travelled to Mumbai, lived with friends. Had massive fun. my friends made me realize that married life can be fun Lived with mother and talked to her a lot it is important to know your parents &amp;ldquo;as a person&amp;rdquo; Had lots of mangoes love langda mango, more than alphonso Took fitness more seriously, started lifting regularly: deadlift: increased from 70kg to 105kg squat: increased from 40kg to 70kg pullups: increased from 2 pullups to 10 pullups running / cycling: kept this pretty low, will make progress on this next year animal flow: learnt a fair bit, enjoyed it a lot got out of a long term, long distance relationship never let anyone close to you feel lonely long distance is extremely challenging.</description>
     </item>
     
     <item>
       <title>Why this blog</title>
-      <link>https://ayushthakur.github.io/ayushthakur.dev/post/2021-12-29-why-this-blog/</link>
+      <link>https://ayushthakur.github.io/post/2021-12-29-why-this-blog/</link>
       <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ayushthakur.github.io/ayushthakur.dev/post/2021-12-29-why-this-blog/</guid>
+      <guid>https://ayushthakur.github.io/post/2021-12-29-why-this-blog/</guid>
       <description>The idea of the blog is to continue my writing journey but now (in public). The initial aim is to publish more and publish often (quantity &amp;raquo; quality) to build momentum. The rest will be figured out later.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://ayushthakur.github.io/ayushthakur.dev/post/2022-04-29-bangalore-diaries-2022/</link>
+      <link>https://ayushthakur.github.io/post/2022-04-29-bangalore-diaries-2022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ayushthakur.github.io/ayushthakur.dev/post/2022-04-29-bangalore-diaries-2022/</guid>
+      <guid>https://ayushthakur.github.io/post/2022-04-29-bangalore-diaries-2022/</guid>
       <description>I started my career in Bangalore back in February 2015, within a year I realized that most of Bangalore thinks that I am mistaken, as I lived in Whitefield.
 After 7 years, I am back here. I will keep updating this post with things that I enjoy. You can choose your adventure.
 Adventures Link to heading 1. Try indoor bouldering / climbing I went to equilibium gym in Indiranagar. They charge Rs.</description>

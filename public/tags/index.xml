@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ayush Thakur</title>
-    <link>https://ayushthakur.github.io/ayushthakur.dev/tags/</link>
+    <link>https://ayushthakur.github.io/tags/</link>
     <description>Recent content in Tags on Ayush Thakur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ayushthakur.github.io/ayushthakur.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ayushthakur.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>recommendations</title>
-      <link>https://ayushthakur.github.io/ayushthakur.dev/tags/recommendations/</link>
+      <link>https://ayushthakur.github.io/tags/recommendations/</link>
       <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ayushthakur.github.io/ayushthakur.dev/tags/recommendations/</guid>
+      <guid>https://ayushthakur.github.io/tags/recommendations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>musings</title>
-      <link>https://ayushthakur.github.io/ayushthakur.dev/tags/musings/</link>
+      <link>https://ayushthakur.github.io/tags/musings/</link>
       <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ayushthakur.github.io/ayushthakur.dev/tags/musings/</guid>
+      <guid>https://ayushthakur.github.io/tags/musings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>career</title>
-      <link>https://ayushthakur.github.io/ayushthakur.dev/tags/career/</link>
+      <link>https://ayushthakur.github.io/tags/career/</link>
       <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ayushthakur.github.io/ayushthakur.dev/tags/career/</guid>
+      <guid>https://ayushthakur.github.io/tags/career/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blog</title>
-      <link>https://ayushthakur.github.io/ayushthakur.dev/tags/blog/</link>
+      <link>https://ayushthakur.github.io/tags/blog/</link>
       <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ayushthakur.github.io/ayushthakur.dev/tags/blog/</guid>
+      <guid>https://ayushthakur.github.io/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blog-meta</title>
-      <link>https://ayushthakur.github.io/ayushthakur.dev/tags/blog-meta/</link>
+      <link>https://ayushthakur.github.io/tags/blog-meta/</link>
       <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ayushthakur.github.io/ayushthakur.dev/tags/blog-meta/</guid>
+      <guid>https://ayushthakur.github.io/tags/blog-meta/</guid>
       <description></description>
     </item>
     
