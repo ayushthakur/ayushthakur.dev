@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog-meta on Ayush Thakur</title>
+    <link>https://ayushthakur.github.io/ayushthakur.dev/tags/blog-meta/</link>
+    <description>Recent content in blog-meta on Ayush Thakur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ayushthakur.github.io/ayushthakur.dev/tags/blog-meta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why this blog</title>
+      <link>https://ayushthakur.github.io/ayushthakur.dev/post/2021-12-29-why-this-blog/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ayushthakur.github.io/ayushthakur.dev/post/2021-12-29-why-this-blog/</guid>
+      <description>The idea of the blog is to continue my writing journey but now (in public). The initial aim is to publish more and publish often (quantity &amp;raquo; quality) to build momentum. The rest will be figured out later.</description>
+    </item>
+    
+  </channel>
+</rss>

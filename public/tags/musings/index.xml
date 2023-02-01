@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>musings on Ayush Thakur</title>
+    <link>https://ayushthakur.github.io/ayushthakur.dev/tags/musings/</link>
+    <description>Recent content in musings on Ayush Thakur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ayushthakur.github.io/ayushthakur.dev/tags/musings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Need for imaginary numbers and the role of outsiders</title>
+      <link>https://ayushthakur.github.io/ayushthakur.dev/post/2022-07-25-need-for-imaginary-numbers-and-the-role-of-outsiders/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ayushthakur.github.io/ayushthakur.dev/post/2022-07-25-need-for-imaginary-numbers-and-the-role-of-outsiders/</guid>
+      <description>After watching this video by Veritasium. I realized that geometry was the origin of all of algebra, at least a lot of advancements to it. For eg: Let&amp;rsquo;s take a simple Quadratic Equation x^2 + x = 20, anyone can apply the quadratic formula to solve it but before that, it was Geometry that solved such problems ( I highly recommend you to watch the video to understand how it was done, my notes below might not help you imagine it as clearly as was done in the video)</description>
+    </item>
+    
+    <item>
+      <title>How do you send a message to someone 10,000 years in future</title>
+      <link>https://ayushthakur.github.io/ayushthakur.dev/post/2022-02-19-how-do-you-send-a-message-to-someone-10000-years-in-future/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ayushthakur.github.io/ayushthakur.dev/post/2022-02-19-how-do-you-send-a-message-to-someone-10000-years-in-future/</guid>
+      <description>I was listening to this great episode on 99% invisible (one of the best podcasts I listen to). The idea was - How do you communicate with someone 10k years in future to convey them the message that a certain box contains radioactive material and shouldn&amp;rsquo;t be touched (as it is an existential risk)
+This was an actual project in the US and they hired a bunch fo artists, communicators etc.</description>
+    </item>
+    
+  </channel>
+</rss>
