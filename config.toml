@@ -1,0 +1,72 @@
+theme = "coder"
+baseurl = "http://www.ayushthakur.dev"
+title = "Ayush Thakur"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+  author = "Ayush Thakur"
+  info = "Data Scientist | Reads, Writes and Builds"
+  description = "Ayush Thakur's personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "/images/profile.png"
+  #gravatar = "john.doe@example.com"
+
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2023
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/ayushthakur"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/ayushthakur2293/"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 3
+  url = "https://www.linkedin.com/in/ayushthakur/"
+
+# Menu links
+[[menu.main]]
+  name = "blog"
+  weight = 1
+  url  = "post/"
+[[menu.main]]
+  name = "projects"
+  weight = 2
+  url = "projects/"
+[[menu.main]]
+  name = "about"
+  weight = 3
+  url = "about/"
