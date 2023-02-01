@@ -1,5 +1,5 @@
 theme = "coder"
-baseurl = "https://ayushthakur.github.io/"
+baseurl = "https://ayushthakur.github.io"
 title = "Ayush Thakur"
 languagecode = "en"
 defaultcontentlanguage = "en"
