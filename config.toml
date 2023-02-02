@@ -17,7 +17,7 @@ disqusShortname = "yourdiscussshortname"
   info = "Data Scientist | Reads, Writes and Builds"
   description = "Ayush Thakur's personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "/images/profile.png"
+  avatarurl = "images/profile.jpg"
   #gravatar = "john.doe@example.com"
 
   favicon_32 = "/img/favicon-32x32.png"
