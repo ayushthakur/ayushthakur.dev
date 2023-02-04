@@ -49,13 +49,19 @@ disqusShortname = "yourdiscussshortname"
 [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
-  weight = 3
+  weight = 2
   url = "https://twitter.com/ayushthakur2293/"
 [[params.social]]
   name = "LinkedIn"
   icon = "fa fa-linkedin fa-2x"
   weight = 3
   url = "https://www.linkedin.com/in/ayushthakur/"
+[[params.social]]
+  name = "buymeacoffee"
+  icon = "fa fa-buymeacoffee fa-2x"
+  weight = 4
+  url = "https://www.buymeacoffee.com/thakur"
+
 
 # Menu links
 [[menu.main]]
