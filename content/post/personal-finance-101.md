@@ -1,0 +1,10 @@
+---
+title: "Personal Finance 101"
+date: 2023-04-04T15:45:35+05:30
+draft: true
+---
+
+THIS ARTICLE IS A SUMMARY OF ALL THE ACTIONABLE ITEMS THAT I PICKED FROM MONIKA HALAN'S BOOK: [LET'S TALK MONEY](https://amzn.to/3Kwka27)
+
+
+
