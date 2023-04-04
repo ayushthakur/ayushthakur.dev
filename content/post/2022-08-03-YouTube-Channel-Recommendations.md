@@ -1,5 +1,5 @@
 ---
-title: "YouTube Channel Recommendations"
+title: "youTube channel recommendations"
 date: 2022-08-03
 categories:
   - blog

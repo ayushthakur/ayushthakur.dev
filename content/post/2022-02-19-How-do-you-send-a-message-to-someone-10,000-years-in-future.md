@@ -1,5 +1,5 @@
 ---
-title: "How do you send a message to someone 10,000 years in future"
+title: "how do you send a message to someone 10,000 years in future"
 date: 2022-02-19
 categories:
   - blog

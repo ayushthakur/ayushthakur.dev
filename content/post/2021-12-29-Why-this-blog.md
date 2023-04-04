@@ -1,5 +1,5 @@
 ---
-title: "Why this blog"
+title: "why this blog"
 date: 2021-12-29
 categories:
   - blog

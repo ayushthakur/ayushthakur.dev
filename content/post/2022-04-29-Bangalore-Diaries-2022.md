@@ -23,6 +23,7 @@ You can go here for a leisurely walk in the morning hours.
 2. [Sheron Tea Stall](https://www.zomato.com/bangalore/sharon-tea-stall-thippasandra) My favourite tea stall in this world. A must try. You can club this with Burger Seigneur. Their biscuits are damn nice (this is coming from someone who doesnt' eat biscuits)
 3. IDC Kitchen: Really good Dosa, with non-sweet Sambaar.
 4. [Kunafa Story](https://www.zomato.com/bangalore/kunafa-story-koramangala-5th-block-bangalore) This has become my favourite dessert place. I do not have a sweet tooth, until I find myself near 5th block Kormangala. I would suggest dining in over ordering in. Say hi to Tanzil from my side.
-5. 
+5. [Go Native Cafe](https://www.zomato.com/bangalore/go-native-1-lavelle-road-bangalore) A beautiful cafe with good internet connectivity. The food here is great. I loved the vitamini punch drink and the cumin feta beetroot salad. I am coming here again for sure.
+6. [Naru Noodle Bar](https://www.narunoodlebar.com/) The cafe that is the talk of the town (at the time of writing i.e. March, 25, 2023). I had very high expectation from this 8 seater, reservation only place. I tried one Ramen and a Salmon starter, but I found that t
 
 

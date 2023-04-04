@@ -1,5 +1,5 @@
 ---
-title: "Need for imaginary numbers and the role of outsiders"
+title: "need for imaginary numbers and the role of outsiders"
 date: 2022-07-25
 categories:
   - blog
