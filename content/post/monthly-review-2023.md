@@ -18,10 +18,18 @@ draft: true
 - got a good barber on Urban Clap, haircut issues sorted now.
 - tried a reels challenge with wife & caused her a sprain. now we just stick to sharing couple challenges reels
 - travelled to Goa with wife (her first goa trip). More details on Goa Diaries blog.
-- marchtee sale was one, so got my yearly supply of basics.
+- marchtee sale was one, so spent way more than I had to
 - started taking more random pictures to ensure I create more memories
 - 
 
 ## April
-
+- started with a trip to Mumbai to meet wife's college friends
+- climbed a rope on a tree with local kids, they were fascinated with my abs
+- watched the moonset at the marine drive, with wife and thousand other people (because Mumbai)
+- have been struggling with sleep for the past 20 days or so
+- visited jaipur for a friend's wedding, I realized that I really struggle with food in Rajasthan. I am not a fan of the cuisine (probably it is the lack of egg availability)
+- visited my niece in Pune. Don't be afraid of talking technical things with kids, they might enjoy it.
+- If you are in Pune, you should order Alphonso from Malpani Mangoes atleast once (it's quite good)
+- went to write club bangalore again, I must go there often. Good fiction writing is just brilliant
+- 
 
