@@ -30,6 +30,15 @@ draft: true
 - visited jaipur for a friend's wedding, I realized that I really struggle with food in Rajasthan. I am not a fan of the cuisine (probably it is the lack of egg availability)
 - visited my niece in Pune. Don't be afraid of talking technical things with kids, they might enjoy it.
 - If you are in Pune, you should order Alphonso from Malpani Mangoes atleast once (it's quite good)
-- went to write club bangalore again, I must go there often. Good fiction writing is just brilliant
+- went to write club bangalore again, I must go there often. Good fiction writing is a difficult and rewarding skill to have
+- attended India's first skating disco. It was great for photos and videos but overall, not as fun as it looked on camera
+- took two besties out for dinner, realized we should do it more often. Atleast once every quarter
+- travelled to Nepal for brother-in-laws wedding
+
+## May 
+- sprained my neck while doing high reps lateral raises. I hate neck pain
+- went to a dance bar in Kathmandu spent 30 secons and walked out
+- bought new pair of shoes for mother, her most expensive pair till date and absolutely love how she wears them
+- took a diet break for a week. Realized that I do not enjoy dirty eating anymore
 - 
 
