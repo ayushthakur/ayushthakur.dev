@@ -33,12 +33,15 @@ draft: true
 - went to write club bangalore again, I must go there often. Good fiction writing is a difficult and rewarding skill to have
 - attended India's first skating disco. It was great for photos and videos but overall, not as fun as it looked on camera
 - took two besties out for dinner, realized we should do it more often. Atleast once every quarter
-- travelled to Nepal for brother-in-laws wedding
+- travelled to Nepal for brother-in-law's wedding
 
 ## May 
 - sprained my neck while doing high reps lateral raises. I hate neck pain
 - went to a dance bar in Kathmandu spent 30 secons and walked out
 - bought new pair of shoes for mother, her most expensive pair till date and absolutely love how she wears them
-- took a diet break for a week. Realized that I do not enjoy dirty eating anymore
+- took a diet break for a week. Realized that I do not enjoy dirty eating anymore. No signnificant negative impact on the body composition though
+- stared meditating and doing wim-hof, trying this as an experiment
+- sleep is still poor, need to ensure that I make the required behavioral changes
+- Watching NBA playoffs quite regularly, I abosolely love the tactical game that the coaches play
 - 
 

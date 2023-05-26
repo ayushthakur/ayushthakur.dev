@@ -12,7 +12,7 @@ Anyway, here is a list of all the titles that I have read this year or I am curr
 I will eventually create a separate page of all book recommendations & a link to my goodreads profile.
 Till then [here is my partially updated goodreads profile](https://www.goodreads.com/user/show/25285537-ayush-thakur)
 
-Last Updated On: Wed May 10 11:39:42 IST 2023
+Last Updated On: Mon May 22 13:02:16 IST 2023
 
 ## Read
 1. [How to become a writer - Ruskin Bond](https://amzn.to/3nMd68t) - 4.5/5
@@ -24,6 +24,8 @@ Last Updated On: Wed May 10 11:39:42 IST 2023
 7. [In Praise of Shadows - Junichiro Tanizaki](https://amzn.to/3ZzF58V) - 3.5/5
 8. [How to Live - Derek Sivers](https://amzn.to/3nMDjUs) - 5/5 : Strongly Recommended
 9. [Sum: Tales from the afterlives - David Eagleman](https://amzn.to/3Kud2mO) - 4.5/5 - a little trippy
+10. [The extraordinary life of Sam Hell](https://amzn.to/3IygueK) - 3/5
+
 
 
 ## Currently Reading
