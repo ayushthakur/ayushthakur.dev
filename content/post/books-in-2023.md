@@ -12,7 +12,7 @@ Anyway, here is a list of all the titles that I have read this year or I am curr
 I will eventually create a separate page of all book recommendations & a link to my goodreads profile.
 Till then [here is my partially updated goodreads profile](https://www.goodreads.com/user/show/25285537-ayush-thakur)
 
-Last Updated On: Mon May 22 13:02:16 IST 2023
+Last Updated On: Mon Jun 12 16:06:16 IST 2023
 
 ## Read
 1. [How to become a writer - Ruskin Bond](https://amzn.to/3nMd68t) - 4.5/5
@@ -25,15 +25,17 @@ Last Updated On: Mon May 22 13:02:16 IST 2023
 8. [How to Live - Derek Sivers](https://amzn.to/3nMDjUs) - 5/5 : Strongly Recommended
 9. [Sum: Tales from the afterlives - David Eagleman](https://amzn.to/3Kud2mO) - 4.5/5 - a little trippy
 10. [The extraordinary life of Sam Hell](https://amzn.to/3IygueK) - 3/5
+11. [Let's talk money - Monika Halan](https://amzn.to/3Kwka27) - 5/5 (highly recommend it for personal finance in India)
+
 
 
 
 ## Currently Reading
-1. [On Writing Well - William Zinsser](https://amzn.to/3m1l3qa)
-2. [How to be an Adult - David Richo](https://amzn.to/40I3GK6)
-3. [Let's talk money - Monika Halan](https://amzn.to/3Kwka27)
-4. [The Three Body Problem](https://amzn.to/3UaFbCU)
-5. [Designing Your Life: Build the Perfect Career, Step by Step](https://amzn.to/40CWGOh)
+1. [On Writing Well - William Zinsser](https://amzn.to/3m1l3qa) - on hold
+2. [How to be an Adult - David Richo](https://amzn.to/40I3GK6) - on hold
+3. [The Three Body Problem](https://amzn.to/3UaFbCU) - on hold
+4. [Designing Your Life: Build the Perfect Career, Step by Step](https://amzn.to/40CWGOh) - on hold
+5. [Money Wise: Timeless Lessons on Building Wealth](https://amzn.to/3qCyHBQ) - active
 
 
 

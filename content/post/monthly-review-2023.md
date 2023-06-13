@@ -42,6 +42,16 @@ draft: true
 - took a diet break for a week. Realized that I do not enjoy dirty eating anymore. No signnificant negative impact on the body composition though
 - stared meditating and doing wim-hof, trying this as an experiment
 - sleep is still poor, need to ensure that I make the required behavioral changes
-- Watching NBA playoffs quite regularly, I abosolely love the tactical game that the coaches play
+- watching NBA playoffs quite regularly, I absolutely love the tactical game that the coaches play
+- stuti's family visited. Stuti and I had many fights, but most were resolved.
+- sleep got a little fcuked again because of NBA playoffs
+- meditation happens every once in a while, but it is really good. Yoga Nidra is quite useful as well
+
+
+## June
+- got medical tests done. LDL levels came very high, consulted a cardiologist and looks like it is normal because other things are in check and this is most probably hereditary
+- took a day off from work and just whiled away my time in the city, my favorite kind of day
+- tried headout's assignment on user retention, waiting for results.
+- travelled to Pune for Didi's birthday
 - 
 
