@@ -66,5 +66,6 @@ Bullets in no particular order:
     - saw someone jacking off on the street (for him it was his home)
     - ate lots of food: realized most legendary places do not serve quality food, it doesn't even taste good. It's just the brand name, that brings in the confirmation bias at play and we keep praising it
     - some people dream to be where you are
+- 
 
 

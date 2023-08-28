@@ -4,7 +4,7 @@ date: 2023-03-10T00:23:29+05:30
 draft: false
 ---
 
-We constantly talk to ourselves, and fortunately, most of the time, this dialogue happens internally in our heads. This internal voice is our constant companion, providing us with advice and feedback on our actions.
+We constantly talk to ourselves, and fortunately, most of the time, this dialogue occures only in our heads. This internal voice is our constant companion, providing us with advice and feedback on our actions.
 
 Unlike the voices of our friends, family, and colleagues, this voice is only heard by us. Although the tone of this voice changes with context - for example, it may scold us when we make a silly mistake, but forgive us for grave errors, reasoning that it values intent more than the outcome. It can understand, encourage and judge us. This voice is an important factor that defines our relationship with ourselves.
 

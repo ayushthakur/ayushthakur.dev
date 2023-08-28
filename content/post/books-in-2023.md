@@ -12,7 +12,12 @@ Anyway, here is a list of all the titles that I have read this year or I am curr
 I will eventually create a separate page of all book recommendations & a link to my goodreads profile.
 Till then [here is my partially updated goodreads profile](https://www.goodreads.com/user/show/25285537-ayush-thakur)
 
-Last Updated On: Mon Jun 12 16:06:16 IST 2023
+Last Updated On: Tue Jul 25 17:36:01 IST 2023
+
+- updates: 
+
+July: progress is a little stalled now. I have picked up too many books and lost context on many of these. I will be better next month
+
 
 ## Read
 1. [How to become a writer - Ruskin Bond](https://amzn.to/3nMd68t) - 4.5/5
@@ -36,6 +41,7 @@ Last Updated On: Mon Jun 12 16:06:16 IST 2023
 3. [The Three Body Problem](https://amzn.to/3UaFbCU) - on hold
 4. [Designing Your Life: Build the Perfect Career, Step by Step](https://amzn.to/40CWGOh) - on hold
 5. [Money Wise: Timeless Lessons on Building Wealth](https://amzn.to/3qCyHBQ) - active
+6. [Catcher in the Rye](https://amzn.to/3rHOnEx) - active (re-reading this classic after ages)
 
 
 

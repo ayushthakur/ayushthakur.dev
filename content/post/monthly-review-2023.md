@@ -53,5 +53,40 @@ draft: true
 - took a day off from work and just whiled away my time in the city, my favorite kind of day
 - tried headout's assignment on user retention, waiting for results.
 - travelled to Pune for Didi's birthday
-- 
+- watched first play of life, it was Manav Kaul with the title "tumhare baare mein"
+- got published at the PFCs transformation tweet
+- randonly went to meet Avani at her office along with Shuchi. We couldn't find a u-turn and then when we did 
+- Travelled to Thailand with Stuti
+    - chickened out of an island trip because of motion sickness
+    - had first muay thai session
+    - saw a water monitor up close in Lumphini Park in Bangkok
+    - Met Ti for the first time
+    - didn't follow diet for 5 days straight
 
+
+## July
+- gifted wife a jhula that she wanted for a long time
+- had a day out with friends on a saturday where we went to Sharon for the first time
+- hosted friends for dinner and lunch mutliple times this month
+- started bulking, I will be saying goodbye to my abs now
+- sleep is quite good, I wake up early around 7:30am without any alarm
+- Watched Mission Impossible and also ate at Sagar
+- Went out with friends to Chikmanglure for my birthday. I slipped the next morning and injured my sacrum
+- I feel like shit about this injury, doctor has suggested 4 weeks of no workouts and I can't accept that.
+- Mother fell sick one morning and that made me feel a little helpless. I want her to be closer to me.
+- Didn't follow diet on birthday and the day next to it (2 days)
+- Talked to PSM
+- Finished a course in writing by Amit Varma. Found it too expensive for the value it delivered.
+- Got MasterClass Subscription as a gift by my wife. Enjoying it a lot.
+
+## August
+- Friends gifted staedler pencils and some cool games. 
+- Visited Van Gogh experience and thoroughly enjoyed it
+- Started quest to buy a two wheeler. It started with Activa and then shifted to Bike
+- Sat on a Kawasaki Vulcan and went 110KM/Hr on Hossur Road in the evening
+- Tried Lavonne Cafe for the first time. Quite Fancy.
+- Spent a day in Old Bangalore. Visited Thom's bakery, Church Street, Koshy's
+- Tried r/showerOrange trend and had fun with it :P
+- Visited Sharon tea on a weekday with Shuchi and Stuti. Then went to Thom's
+- Learnt thin Omeletes by Adam Rageausea
+-   
