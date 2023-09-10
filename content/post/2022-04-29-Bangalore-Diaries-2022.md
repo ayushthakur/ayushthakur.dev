@@ -14,8 +14,11 @@ You can go here for a leisurely walk in the morning hours.
 
 *Cubbon Park State Library*: The library is beautiful inside out. The best thing is that you can take your own laptop / books and sit there and study for as long as you want. Just ensure that you don't click pictures and keep your mobile on silent mode.
 
+On Sundays and certain (2nd and 4th Saturday) you can bring your skates or skateboards and learn or practice at along with many members of the Bengaluru Skaters. Checkout their instagram to know more
 
- On Sundays and certain (2nd and 4th Saturday) you can bring your skates or skateboards and learn or practice at along with many members of the Bengaluru Skaters. Checkout their instagram to know more
+**3. Get into a sport - Badminton, Football**
+We are a group of 7 friends here. We go for badminton here regularly.
+
 
 
 # Food
@@ -25,6 +28,8 @@ You can go here for a leisurely walk in the morning hours.
 4. [Kunafa Story](https://www.zomato.com/bangalore/kunafa-story-koramangala-5th-block-bangalore) This has become my favourite dessert place. I do not have a sweet tooth, until I find myself near 5th block Kormangala. I would suggest dining in over ordering in. Say hi to Tanzil from my side.
 5. [Go Native Cafe](https://www.zomato.com/bangalore/go-native-1-lavelle-road-bangalore) A beautiful cafe with good internet connectivity. The food here is great. I loved the vitamini punch drink and the cumin feta beetroot salad. I am coming here again for sure.
 6. [Naru Noodle Bar](https://www.narunoodlebar.com/) The cafe that is the talk of the town (at the time of writing i.e. March, 25, 2023). I had very high expectation from this 8 seater, reservation only place. I tried one Ramen and a Salmon starter, but I found the taste as average and the whole experience wasn't anything out of this world. If I were Thai, I might have said "my taste pallete aren't developed to appreciate this taste" but I am not Thai and hence I just say "It bad".
+7. [Thom's Bakery](http://zoma.to/r/20637085) Legendar Bakery and Supermarket. It is Virushka's favorite bakery. I like the range of products that are available here. The bread is great. Their puffs and dry cakes are good too. But when I looked at the ingredients I realized that they use Dalda and that made me a little sad. I will not be having more of their cakes for that reason.
+8. 
 
 
 

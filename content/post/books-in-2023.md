@@ -12,7 +12,7 @@ Anyway, here is a list of all the titles that I have read this year or I am curr
 I will eventually create a separate page of all book recommendations & a link to my goodreads profile.
 Till then [here is my partially updated goodreads profile](https://www.goodreads.com/user/show/25285537-ayush-thakur)
 
-Last Updated On: Tue Jul 25 17:36:01 IST 2023
+Last Updated On: Sun Sep 10 15:19:15 IST 2023
 
 - updates: 
 
@@ -31,6 +31,9 @@ July: progress is a little stalled now. I have picked up too many books and lost
 9. [Sum: Tales from the afterlives - David Eagleman](https://amzn.to/3Kud2mO) - 4.5/5 - a little trippy
 10. [The extraordinary life of Sam Hell](https://amzn.to/3IygueK) - 3/5
 11. [Let's talk money - Monika Halan](https://amzn.to/3Kwka27) - 5/5 (highly recommend it for personal finance in India)
+12. [Catcher in the Rye](https://amzn.to/3rHOnEx) - 5/5 (always a good read for me, must read it every decade)
+13. [The four commandments](https://amzn.to/46588Vj) - 3/5
+14. 
 
 
 
@@ -41,7 +44,7 @@ July: progress is a little stalled now. I have picked up too many books and lost
 3. [The Three Body Problem](https://amzn.to/3UaFbCU) - on hold
 4. [Designing Your Life: Build the Perfect Career, Step by Step](https://amzn.to/40CWGOh) - on hold
 5. [Money Wise: Timeless Lessons on Building Wealth](https://amzn.to/3qCyHBQ) - active
-6. [Catcher in the Rye](https://amzn.to/3rHOnEx) - active (re-reading this classic after ages)
+6. 
 
 
 
