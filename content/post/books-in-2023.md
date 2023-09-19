@@ -12,11 +12,15 @@ Anyway, here is a list of all the titles that I have read this year or I am curr
 I will eventually create a separate page of all book recommendations & a link to my goodreads profile.
 Till then [here is my partially updated goodreads profile](https://www.goodreads.com/user/show/25285537-ayush-thakur)
 
-Last Updated On: Sun Sep 10 15:19:15 IST 2023
+Last Updated On: Tue Sep 19 15:52:52 IST 2023
 
-- updates: 
+- Updates: 
 
-July: progress is a little stalled now. I have picked up too many books and lost context on many of these. I will be better next month
+*July: progress is a little stalled now. I have picked up too many books and lost context on many of these. I will be better next month*
+
+*August: Got distracted by some good old articles, so spent a good enough time reading but no progress in books*
+
+*September: Things are going good. Maintaining good pace*
 
 
 ## Read
@@ -32,10 +36,9 @@ July: progress is a little stalled now. I have picked up too many books and lost
 10. [The extraordinary life of Sam Hell](https://amzn.to/3IygueK) - 3/5
 11. [Let's talk money - Monika Halan](https://amzn.to/3Kwka27) - 5/5 (highly recommend it for personal finance in India)
 12. [Catcher in the Rye](https://amzn.to/3rHOnEx) - 5/5 (always a good read for me, must read it every decade)
-13. [The four commandments](https://amzn.to/46588Vj) - 3/5
-14. 
-
-
+13. [The four commandments](https://amzn.to/46588Vj) - 3/5 (This is a great book for some, but I had read a lot of it before in some other form)
+14. [Steal like an artist](https://amzn.to/3RmfJL8) - 4/5 (a page turner, one sitting book, insightful)
+15. [Skin in the Game: Hidden Asymmetries in Daily Life](https://amzn.to/3PEUeUK) - 5/5 (I don't think I will ever  rate anything by Taleb less than 5)
 
 
 ## Currently Reading
@@ -43,9 +46,8 @@ July: progress is a little stalled now. I have picked up too many books and lost
 2. [How to be an Adult - David Richo](https://amzn.to/40I3GK6) - on hold
 3. [The Three Body Problem](https://amzn.to/3UaFbCU) - on hold
 4. [Designing Your Life: Build the Perfect Career, Step by Step](https://amzn.to/40CWGOh) - on hold
-5. [Money Wise: Timeless Lessons on Building Wealth](https://amzn.to/3qCyHBQ) - active
-6. 
-
+5. [Money Wise: Timeless Lessons on Building Wealth](https://amzn.to/3qCyHBQ) - on hold
+6. [Goat Days](https://amzn.to/3ZnjlOR) - active
 
 
 self-promotion: if this blog adds value to your life, then you can show your appreciation by [buying me a coffee](https://www.buymeacoffee.com/thakur)
