@@ -1,7 +1,15 @@
+---
+title: "bangalore diaries"
+date: 2023-09-22T12:55:23+05:30
+categories:
+  - blog
+tags:
+  - diary
+---
+
 I started my career in Bangalore back in February 2015, within a year I realized that most of Bangalore thinks that I am mistaken, as I lived in Whitefield. 
 
 After 7 years, I am back here. I will keep updating this post with things that I enjoy. You can choose your adventure.
-
 
 
 # Adventures 
@@ -23,12 +31,20 @@ We are a group of 7 friends here. We go for badminton here regularly.
 
 # Food
 1. [Burger Seigneur](https://www.zomato.com/bangalore/burger-seigneur-indiranagar-bangalore) Best Burgers. Can order or dine in
+
 2. [Sheron Tea Stall](https://www.zomato.com/bangalore/sharon-tea-stall-thippasandra) My favourite tea stall in this world. A must try. You can club this with Burger Seigneur. Their biscuits are damn nice (this is coming from someone who doesnt' eat biscuits)
-3. IDC Kitchen: Really good Dosa, with non-sweet Sambaar.
+
+3. IDC Kitchen: Good Dosa, with non-sweet sambaar. I don't like the non-sweet sambaar though, so this isn't my preference.
+
+
 4. [Kunafa Story](https://www.zomato.com/bangalore/kunafa-story-koramangala-5th-block-bangalore) This has become my favourite dessert place. I do not have a sweet tooth, until I find myself near 5th block Kormangala. I would suggest dining in over ordering in. Say hi to Tanzil from my side.
-5. [Go Native Cafe](https://www.zomato.com/bangalore/go-native-1-lavelle-road-bangalore) A beautiful cafe with good internet connectivity. The food here is great. I loved the vitamini punch drink and the cumin feta beetroot salad. I am coming here again for sure.
+
+5. [Go Native Cafe](https://www.zomato.com/bangalore/go-native-1-lavelle-road-bangalore) A beautiful cafe with good internet connectivity. The food here is okay, a lot of things to experiment with, some experiments were successful, some failed. But I liked the salads and the drinks. I loved the vitamin punch drink and the cumin feta beetroot salad. I am coming here again for sure.
+
 6. [Naru Noodle Bar](https://www.narunoodlebar.com/) The cafe that is the talk of the town (at the time of writing i.e. March, 25, 2023). I had very high expectation from this 8 seater, reservation only place. I tried one Ramen and a Salmon starter, but I found the taste as average and the whole experience wasn't anything out of this world. If I were Thai, I might have said "my taste pallete aren't developed to appreciate this taste" but I am not Thai and hence I just say "It bad".
+
 7. [Thom's Bakery](http://zoma.to/r/20637085) Legendar Bakery and Supermarket. It is Virushka's favorite bakery. I like the range of products that are available here. The bread is great. Their puffs and dry cakes are good too. But when I looked at the ingredients I realized that they use Dalda and that made me a little sad. I will not be having more of their cakes for that reason.
+
 8. 
 
 
