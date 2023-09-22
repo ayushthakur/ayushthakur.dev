@@ -7,29 +7,29 @@ tags:
   - diary
 ---
 
-I started my career in Bangalore back in February 2015, within a year I realized that most of Bangalore thinks that I am mistaken, as I lived in Whitefield. 
+I started my career in Bangalore back in February 2015, within a year I realized that most of Bangalore thought that I was mistaken, as I used to live in Whitefield. 
 
-After 7 years, I am back here. I will keep updating this post with things that I enjoy. You can choose your adventure.
+After 7 years, I am back here, now more towards . I will keep updating this post with things that I enjoy. You can choose your adventure.
 
 
 # Adventures 
 **1. Try indoor bouldering / climbing**
 I went to [equilibium gym](https://equilibriumclimbing.com/) in Indiranagar. They charge Rs. 500 for a day pass. You can climb for as long as you want. Keep shorts, sportswear, they have lockers facility.
 
-**2. Cuboon Park**
-
+**2. Cubbon Park**
 You can go here for a leisurely walk in the morning hours.
 
 *Cubbon Park State Library*: The library is beautiful inside out. The best thing is that you can take your own laptop / books and sit there and study for as long as you want. Just ensure that you don't click pictures and keep your mobile on silent mode.
 
-On Sundays and certain (2nd and 4th Saturday) you can bring your skates or skateboards and learn or practice at along with many members of the Bengaluru Skaters. Checkout their instagram to know more
+On Sundays and certain (2nd and 4th Saturdays) you can bring your skates or skateboards and learn or practice along with many members of the Bengaluru Skaters. Checkout their instagram to know more.
 
 **3. Get into a sport - Badminton, Football**
-We are a group of 7 friends here. We go for badminton here regularly.
+We are a group of 7 friends here. We go for badminton regularly. Good light cardio sessions along with hand-eye coordination practice.
 
 
 
 # Food
+
 1. [Burger Seigneur](https://www.zomato.com/bangalore/burger-seigneur-indiranagar-bangalore) Best Burgers. Can order or dine in
 
 2. [Sheron Tea Stall](https://www.zomato.com/bangalore/sharon-tea-stall-thippasandra) My favourite tea stall in this world. A must try. You can club this with Burger Seigneur. Their biscuits are damn nice (this is coming from someone who doesnt' eat biscuits)
@@ -45,7 +45,9 @@ We are a group of 7 friends here. We go for badminton here regularly.
 
 7. [Thom's Bakery](http://zoma.to/r/20637085) Legendar Bakery and Supermarket. It is Virushka's favorite bakery. I like the range of products that are available here. The bread is great. Their puffs and dry cakes are good too. But when I looked at the ingredients I realized that they use Dalda and that made me a little sad. I will not be having more of their cakes for that reason.
 
-8. 
+8. [Navu Project](https://www.zomato.com/bangalore/navu-project-domlur-bangalore): I heard a lot about this place on instagram. The menu looked interesting so we visited. Great aesthetic. I liked their Baklava, it was was a good spin on the classic dessert. Lighter version of it. I tried steamed rice with chicken, mushroom gnocchi and cauliflower creme brulè. Except for creme brulè, other dishes were average. I might go back there for the Baklava.
+
+9. [Nasi and Mee](https://www.zomato.com/bangalore/nasi-and-mee-koramangala-4th-block): This is a comfort place for me and my wife. A default of sorts. We love the xoxo noodles and the singapore style hainanese chicken rice. We visit this often.
 
 
 
