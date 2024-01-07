@@ -89,4 +89,72 @@ draft: true
 - Tried r/showerOrange trend and had fun with it :P
 - Visited Sharon tea on a weekday with Shuchi and Stuti. Then went to Thom's
 - Learnt thin Omeletes by Adam Rageausea
--   
+- Visited Indore, a random plan
+- Spent time talking with a childhood friend. dicussed about his business and potential strategies
+- Attended independence day flag hoisting at mother's office
+- Had fights with wife, many tbh
+- Got an expensive and yet bad haircut in Indore
+- Talked a lot to my childhood teacher (life mentor) about life and many things that we never touched upon
+- Got side adjusted pants - made bespoke. This is high fashion.
+- Got dumbells and resistance band for mother
+- Travelled to Pune in a train
+- Travelled to Mahabaleshwar with Family (sister's family, mother and cousin brother) for Rakhi.
+- This was the first family trip and we had massive fun
+- Celebrated Arya's (neice) birthday
+
+
+## September
+- Stayed in Pune for Arya's birthday
+- Got a new bike. Royal Enfield - meter 350
+- Went on first bike ride with wife.
+- Saw a gruesome bike accident just outside the apartment.
+- Bulking properly. Eating more. Lifting heavier now.
+- Tried Navu Project
+- Celebrated Ganpati. Wife made eco-firendly at home and I made he mouse. It was fun.
+- Went for shopping with Shuchi and we didn't buy anything after 4 hours.
+- Got some cane made laundry bag and lighting
+- Mother visited us in bangalore for the first time
+- Had a great plyo workout with basketball shooting. Loved it.
+- Visited national museum of modern art with mother and wife
+- Went to Sharon, coomerical street and Burma Burma with mother and wife
+- Went to Ooty on a roadtrip with Mother and Stuti
+- Did visarjan in a lake on the way
+- Stayed in an ITC hotel
+- Got a huge financial stress for a few days because of fraudulent transactions on my credit card. Alipay payments apparently
+- Celebrated mother's birthday and talked her a lot about her life and stuff
+
+
+## October
+- Started a goal to type faster and started practicing and recording. The goal is to do this for the next 15 days
+- Fraudulent transactions got reversed and I can finally breathe easy
+- Got stuck in rains while coming back home from Indiranagar, it took me >2.5 hours. Felt so cold on the bike that stopped in between and ate thukpa at Yak Kitchen in Kormangala. Tastiest thukpa ever.
+- Stuti found out a momos place in kormangala and it was great. The aunty even had chicken soup as well. Which was exceptional.
+- Watched Ind vs Pakistan with Avani. We had a fun weekend. Watched silence of the lambs as well
+- Upper back got fucked again, I must stretch more. I haven't stretched at all.
+- Travelled to Calcutta for Pujo
+- Visited pandals, had food at Peter Cat
+- Visited Olypub
+- Tried different Kolkata Rolls
+- Got a yellow taxi pic
+- Didn't follow diet for 4 whole days.
+- Came back to Bangalore
+
+## November
+- Left for Indore on 2nd for Diwali
+- Made Stuti join me on a short notice of 2 hours and picked her up from Office directly
+- Helped in cleaning and then suffered from allergy
+- Played basketball one on one with Samradh
+- Played basketball at BBC regularly. Realized that I don't practice anywhere close to what they do.
+- Went to Bartan Bajar on Dhanteras and a loading rickshaw banged into my car from behind
+- Met Mam and Sir and got sir enrolled in PFC
+- Went for a walk with Aura and discussed Israel & Palestine
+- Burned firecrackers on diwali. Got a fancy firecracker that I used to see from far away, as mostly rich kids used to fire it.
+-
+
+## December
+- Visited KL and really liked spending the two days there
+- Ate Laksa. I like curry Laksa from Ah Cheng Laksa more than I like Asam Laksa.
+- I didn't like the food at the chinese lunch place as much as I used to when I used to eat with Austin and Novia and others
+- 
+
+

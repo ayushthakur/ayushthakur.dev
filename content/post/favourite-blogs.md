@@ -12,6 +12,8 @@ draft: False
 - https://jalammar.github.io/
 - https://vickiboykis.com/
 - https://blog.reachsumit.com/
+- https://blog.reachsumit.com/
+- 
 
 ## personal blogs
 - https://julian.digital/

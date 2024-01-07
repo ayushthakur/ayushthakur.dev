@@ -4,23 +4,20 @@ date: 2023-04-04T15:26:27+05:30
 draft: false
 ---
 
-One of my goal for 2023 is to read more books. I am an average reader at best (as per my old kindle & [pocket](https://getpocket.com/) stats).
+One of my goal for 2023 was to read more books. I am an average reader at best (as per my old kindle & [pocket](https://getpocket.com/) stats).
 
-This year I am carrying my kindle wherever possible and also consciously nudging myself to read more books using streaks app on iOS.
+This year I was carrying my kindle wherever possible and also consciously nudging myself to read more books using streaks app on iOS.
 
-Anyway, here is a list of all the titles that I have read this year or I am currently reading.
-I will eventually create a separate page of all book recommendations & a link to my goodreads profile.
-Till then [here is my partially updated goodreads profile](https://www.goodreads.com/user/show/25285537-ayush-thakur)
+Anyway, here is a list of all the titles that I have read this year.
 
-Last Updated On: Tue Sep 19 15:52:52 IST 2023
+Last Updated On: Sun Jan  7 23:09:18 IST 2024s
 
-- Updates: 
+- learnings: 
 
-*July: progress is a little stalled now. I have picked up too many books and lost context on many of these. I will be better next month*
-
-*August: Got distracted by some good old articles, so spent a good enough time reading but no progress in books*
-
-*September: Things are going good. Maintaining good pace*
+- The first half the year was good in terms of number of titles read. Then in the second half things slowed down a little more. I kept starting multiple titles and leaving them after 30-40%. 
+- A constant flow of good fiction books can help reduce the hurdles that comes with non-fiction.
+- I ended up choosing many books that were short, you end up gaming the metrics that you are optimizing for. Many books which I only finished 30% were longer than actual books that I finished 100%
+- Reels and access to phone is a big detriment to everything and especially a good reading session.
 
 
 ## Read
@@ -39,15 +36,18 @@ Last Updated On: Tue Sep 19 15:52:52 IST 2023
 13. [The four commandments](https://amzn.to/46588Vj) - 3/5 (This is a great book for some, but I had read a lot of it before in some other form)
 14. [Steal like an artist](https://amzn.to/3RmfJL8) - 4/5 (a page turner, one sitting book, insightful)
 15. [Skin in the Game: Hidden Asymmetries in Daily Life](https://amzn.to/3PEUeUK) - 5/5 (I don't think I will ever  rate anything by Taleb less than 5)
+16. [Goat Days](https://amzn.to/3ZnjlOR) - 5/5 (A beautifully painful story)
+17. [Bird by Bird - ](https://amzn.to/46efhmC) - 5/5
+18. [Black River](https://amzn.to/3ZPHJsT) - 4/5
+19. [Chewing the fat](https://amzn.to/48B0HXu) - 4/5 (Opinionated and witty, best)
+20. 
 
-
-## Currently Reading
-1. [On Writing Well - William Zinsser](https://amzn.to/3m1l3qa) - on hold
-2. [How to be an Adult - David Richo](https://amzn.to/40I3GK6) - on hold
-3. [The Three Body Problem](https://amzn.to/3UaFbCU) - on hold
-4. [Designing Your Life: Build the Perfect Career, Step by Step](https://amzn.to/40CWGOh) - on hold
-5. [Money Wise: Timeless Lessons on Building Wealth](https://amzn.to/3qCyHBQ) - on hold
-6. [Goat Days](https://amzn.to/3ZnjlOR) - active
+## Started but didn't finish
+1. [On Writing Well - William Zinsser](https://amzn.to/3m1l3qa)
+2. [How to be an Adult - David Richo](https://amzn.to/40I3GK6)
+3. [The Three Body Problem](https://amzn.to/3UaFbCU)
+4. [Designing Your Life: Build the Perfect Career, Step by Step](https://amzn.to/40CWGOh)
+5. [Money Wise: Timeless Lessons on Building Wealth](https://amzn.to/3qCyHBQ)
 
 
 self-promotion: if this blog adds value to your life, then you can show your appreciation by [buying me a coffee](https://www.buymeacoffee.com/thakur)
