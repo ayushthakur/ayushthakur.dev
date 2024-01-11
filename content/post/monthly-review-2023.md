@@ -196,8 +196,7 @@ draft: false
     - chicken with orange sauce
     - andhra chilli chicken
     - chicken burritto
-
-
+- won the society basketball tournament (performed well). All this fitness shiz I have been doing really worked
 
 
 
