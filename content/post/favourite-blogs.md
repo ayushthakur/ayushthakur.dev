@@ -12,7 +12,7 @@ draft: False
 - https://jalammar.github.io/
 - https://vickiboykis.com/
 - https://blog.reachsumit.com/
-- https://blog.reachsumit.com/
+- https://www.julian.com/
 - 
 
 ## personal blogs
@@ -23,14 +23,14 @@ draft: False
 
 ## visit often
 - https://usesthis.com/
-- 
+- https://personalsit.es/
+
 
 ## data and analytics
 - https://substack.com/@dataanalysis
-- 
+
 
 ## letters and memos
 - https://sriramk.com/memos.html
 - https://www.techemails.com/
 - https://lettersofnote.com/
-- 

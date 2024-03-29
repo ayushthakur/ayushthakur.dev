@@ -1,7 +1,7 @@
 ---
 title: "Inspiring Projects"
-date: 2023-09-27T15:09:15+05:30
-draft: true
+date: 2024-03-29T14:07:13+05:30
+draft: False
 ---
 
 This is yet another bookmark page. 
@@ -12,4 +12,3 @@ I aim to copy some of these as it is. Imitation is the highest form of flattery 
 - https://rachelbinx.com/art/yespost
 - https://rachelbinx.com/ (Her projects are very cool)
 - https://news.ycombinator.com/item?id=27302195
-- 
