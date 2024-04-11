@@ -13,13 +13,22 @@ draft: False
 - https://vickiboykis.com/
 - https://blog.reachsumit.com/
 - https://www.julian.com/
-- 
+- https://aman.ai/recsys/intro/
+
 
 ## personal blogs
 - https://julian.digital/
 - https://www.kalzumeus.com/
 - https://boz.com/
-
+- https://www.mayerowitz.io/
+- https://henrikwarne.com/
+- https://www.scattered-thoughts.net/
+- https://snarky.ca/
+- https://steins.studio/
+- https://anbasile.github.io/posts/
+- https://www.the-odd-dataguy.com/
+- https://tdhopper.com/
+- 
 
 ## visit often
 - https://usesthis.com/
