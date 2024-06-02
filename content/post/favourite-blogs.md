@@ -31,6 +31,8 @@ draft: False
 - https://jxnl.co/
 - https://matheusfacure.github.io/
 - https://johnnywebber.com/
+- https://elliott.computer/
+- https://kk.org/thetechnium/
 
 ## visit often
 - https://usesthis.com/
