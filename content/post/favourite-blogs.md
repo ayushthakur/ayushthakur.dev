@@ -28,7 +28,9 @@ draft: False
 - https://anbasile.github.io/posts/
 - https://www.the-odd-dataguy.com/
 - https://tdhopper.com/
-- 
+- https://jxnl.co/
+- https://matheusfacure.github.io/
+- https://johnnywebber.com/
 
 ## visit often
 - https://usesthis.com/
