@@ -15,4 +15,4 @@ David Foster Wallace (Commencement Speech)
  
 
 The Last Lecture by Randy Pausch
-{{ youtube ji5_MqicxSo&t >}}
+{{< youtube ji5_MqicxSo >}}   
