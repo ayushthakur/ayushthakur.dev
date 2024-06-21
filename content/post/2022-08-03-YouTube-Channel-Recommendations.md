@@ -2,9 +2,9 @@
 title: "youtube channel recommendations"
 date: 2022-08-03
 categories:
-  - blog
+  - curation
 tags:
-  - recommendations
+  - recommendations, bookmarks
 ---
 
 

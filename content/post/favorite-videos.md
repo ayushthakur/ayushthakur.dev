@@ -1,5 +1,5 @@
 ---
-title: "Favorite Videos"
+title: "favorite videos"
 date: 2024-06-21T21:23:10+05:30
 draft: false
 ---

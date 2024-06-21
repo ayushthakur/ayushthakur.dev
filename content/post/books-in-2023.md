@@ -2,6 +2,10 @@
 title: "books in 2023"
 date: 2024-01-08T12:09:06+05:30
 draft: false
+categories:
+  - personal
+tags:
+  - reading
 ---
 
 One of my goal for 2023 was to read more books. I am an average reader at best (as per my old kindle & [pocket](https://getpocket.com/) stats).

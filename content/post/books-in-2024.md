@@ -2,6 +2,10 @@
 title: "Books in 2024"
 date: 2024-06-17T00:43:13+05:30
 draft: true
+categories:
+  - personal
+tags:
+  - reading
 ---
 
 Last Updated On: Mon Jun 17 00:43:49 IST 2024

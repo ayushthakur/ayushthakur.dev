@@ -2,6 +2,10 @@
 title: "review 2022"
 date: 2023-01-31T18:19:19+05:30
 draft: false
+categories:
+  - life
+tags:
+  - reflections
 ---
 
 I am a little late to post this, to be precise, I am 32 days late, but screw it, let's do it.

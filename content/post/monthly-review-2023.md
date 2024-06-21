@@ -2,6 +2,10 @@
 title: "review 2023"
 date: 2024-01-11
 draft: false
+categories:
+  - life
+tags:
+  - reflections
 ---
 
 ## January

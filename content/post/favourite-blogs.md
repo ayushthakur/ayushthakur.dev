@@ -2,6 +2,10 @@
 title: "favourite blogs & newsletters"
 date: 2023-08-28T11:25:44+05:30
 draft: False
+categories:
+  - curation
+tags:
+  - bookmarks
 ---
 
 *note: this is a running bookmark page for me. I will keep updating this with my favorite blogs and newsletters.*

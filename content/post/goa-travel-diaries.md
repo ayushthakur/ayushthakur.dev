@@ -2,6 +2,10 @@
 title: "goa travel diaries"
 date: 2023-03-27T14:43:36+05:30
 draft: false
+categories:
+  - personal
+tags:
+  - diary
 ---
 
 *Note: This post will be updated with every Goa trip that I do. For now I have just updated 1/6 of my trips. 

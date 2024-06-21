@@ -1,7 +1,11 @@
 ---
-title: "You Will Only Remember the Weird Days"
+title: "you will only remember the weird days"
 date: 2024-03-29T14:07:13+05:30
 draft: False
+categories:
+  - life
+tags:
+  - reflections
 ---
 
 Do you remember what you had last monday for lunch? Most probaly not, because it was a routine monday. 

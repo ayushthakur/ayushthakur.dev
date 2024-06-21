@@ -2,6 +2,10 @@
 title: "play with your internal dialogue"
 date: 2023-03-10T00:23:29+05:30
 draft: false
+categories:
+  - personal
+tags:
+  - musings
 ---
 
 We constantly talk to ourselves, and fortunately, most of the time, this dialogue occures only in our heads. This internal voice is our constant companion, providing us with advice and feedback on our actions.

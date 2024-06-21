@@ -1,7 +1,11 @@
 ---
-title: "Review 2024"
+title: "review 2024"
 date: 2024-06-17T00:34:53+05:30
 draft: true
+categories:
+  - life
+tags:
+  - reflections
 ---
 
 # Jan

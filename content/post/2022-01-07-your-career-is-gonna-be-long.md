@@ -2,7 +2,7 @@
 title: "your career is gonna be long"
 date: 2022-01-06
 categories:
-  - blog
+  - personal
 tags:
   - career
 ---

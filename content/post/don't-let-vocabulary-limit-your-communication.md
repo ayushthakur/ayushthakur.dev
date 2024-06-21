@@ -2,6 +2,10 @@
 title: "on communication - structure matters more than vocabulary"
 date: 2023-02-04T16:01:28+05:30
 draft: false
+categories:
+  - personal
+tags:
+  - career
 ---
 
 One common mistake that we make while trying to improve our communication skills is solely focusing on improving vocabulary and grammar and tone, while not focusing much on the structure of how we speak/write.
