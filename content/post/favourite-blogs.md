@@ -37,6 +37,7 @@ tags:
 - https://johnnywebber.com/
 - https://elliott.computer/
 - https://kk.org/thetechnium/
+- https://blog.codinghorror.com/about-me/
 
 ## visit often
 - https://usesthis.com/
