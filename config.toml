@@ -43,6 +43,7 @@ weight = 2
   rss = true # generate rss feed. default value is false
   googleAnalyticsAsync = false # use asynchronous tracking. Synchronous tracking by default
   showAllPostsArchive = true # default
+  logo = "images/logo.png"
 
   # Home page settings 
   description = "Hi, this is Ayush Thakur. I write here."
@@ -84,7 +85,7 @@ weight = 2
     link = "https://www.linkedin.com/in/ayushthakur/"
   [[params.social]]
     name = "twitter"
-    link = "https://www.twitter.com/profile/ayushthakur2293"  
+    link = "https://x.com/ayushthakur2293"  
   [[params.social]]
     name = "email"
     link = "mailforayushthakur@gmail.com"  # no need for "mailto:" in the head
